@@ -11,3 +11,7 @@ Olá, meu nome é Paulo Henrique Estevez e estou na Turma 3 do projeto da Oracle
 Lógica de programação I: crie programas com Javascript e HTML:
 
 https://cursos.alura.com.br/user/phestevez/course/logica-programacao-javascript-html/certificate
+
+Git e GitHub - Controle e Compartilhe seu Código:
+
+https://cursos.alura.com.br/user/phestevez/course/git-github-controle-de-versao/certificate
