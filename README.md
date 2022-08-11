@@ -1,12 +1,12 @@
 # Oracle Next Education
 
-## Introdução
+## Introduction
 
-Olá, meu nome é Paulo Henrique Estevez e estou na Turma 3 do projeto da Oracle Nex Education (Programa ONE) + Alura e este repositório é onde estarei colocando os projetos praticados durante o andamento do curso.
+Hello, my name is Paulo Henrique Estevez and I am in Class 3 of the Oracle Nex Education project (Programa ONE) + Alura and this repository is where I will be putting the projects practiced during the course.
 
-# Trilhas de Aprendizagem
+# Learning Paths
 
-## Iniciante em Programação T3 - ONE
+## T3 Programming Beginner - ONE
 
 [Lógica de programação I: crie programas com Javascript e HTML](https://cursos.alura.com.br/user/phestevez/course/logica-programacao-javascript-html/certificate)
 
