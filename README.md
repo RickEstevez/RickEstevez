@@ -8,7 +8,7 @@
 
 > ## Introduction
 
-Hello, my name is Paulo Henrique Estevez and I am in Class 3 of the Oracle Next Education project (Programa ONE) + Alura and this repository is where I will be putting the projects practiced during the course.
+Hello, my name is Paulo Henrique Estevez and I'm in Class 3 of the Oracle Next Education project (Programa ONE) + Alura and this repository is where I'll be putting the projects practiced during the course.
 
 # Learning Paths
 
