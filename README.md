@@ -1,3 +1,9 @@
+<div>
+  <a href="https://github.com/RickEstevez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RickEstevez&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickEstevez&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+</div>
+
 # Oracle Next Education
 ![Sem título 1](https://user-images.githubusercontent.com/91810319/184221369-a68c1566-57bb-4ec2-9e3a-894cfdee92c3.png)
 
@@ -22,12 +28,11 @@ Hello, my name is Paulo Henrique Estevez and I'm in Class 3 of the Oracle Next E
 
 > ## Technologies in Learning and Usage
 
-<table>
-  <tr>
-    <td>HTML</td>
-    <td>JavaScript</td>
-    <td>Python</td>
-    <td>MySQL</td>
-    <td>Git</td>
-  </tr>
-</table>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rick-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Rick-JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Rick-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Rick-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Rick-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Rick-GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
