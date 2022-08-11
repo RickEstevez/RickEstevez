@@ -16,6 +16,7 @@ Hello, my name is Paulo Henrique Estevez and I am in Class 3 of the Oracle Nex E
 
 <table>
   <tr>
+    <td>HTML</td>
     <td>JavaScript</td>
     <td>Python</td>
     <td>C</td>
