@@ -4,7 +4,7 @@
 + [Introduction](#Introduction)
 + [Learning Paths](#Learning Paths)
 + [Certificates](#Certificates)
-+ [Programming Languages in Learning and Usage](Programming Languages in Learning and Usage)
++ [Programming Languages in Learning and Usage](#Programming Languages in Learning and Usage)
 
 > ## Introduction
 
