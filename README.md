@@ -20,7 +20,7 @@ Hello, my name is Paulo Henrique Estevez and I am in Class 3 of the Oracle Nex E
 
 + [Git e GitHub - Controle e Compartilhe seu Código](https://cursos.alura.com.br/user/phestevez/course/git-github-controle-de-versao/certificate)
 
-> ## Programming Languages in Learning and Usage
+> ## Technologies in Learning and Usage
 
 <table>
   <tr>
