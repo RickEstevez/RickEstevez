@@ -1,6 +1,11 @@
 # Oracle Next Education
 ![Sem título 1](https://user-images.githubusercontent.com/91810319/184221369-a68c1566-57bb-4ec2-9e3a-894cfdee92c3.png)
 
++ [Introduction](#Introduction)
++ [Learning Paths](#Learning Paths)
++ [Certificates](#Certificates)
++ [Programming Languages in Learning and Usage](Programming Languages in Learning and Usage)
+
 > ## Introduction
 
 Hello, my name is Paulo Henrique Estevez and I am in Class 3 of the Oracle Nex Education project (Programa ONE) + Alura and this repository is where I will be putting the projects practiced during the course.
