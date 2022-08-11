@@ -7,7 +7,9 @@ Hello, my name is Paulo Henrique Estevez and I am in Class 3 of the Oracle Nex E
 
 # Learning Paths
 
-> ## T3 Programming Beginner - ONE
+![Iniciante em Programação T3 - ONE](https://user-images.githubusercontent.com/91810319/184221601-f3c8875d-9bcd-4957-ad99-9948d112394f.png)
+
+> ## Certificates
 
 + [Lógica de programação I: crie programas com Javascript e HTML](https://cursos.alura.com.br/user/phestevez/course/logica-programacao-javascript-html/certificate)
 
@@ -20,7 +22,6 @@ Hello, my name is Paulo Henrique Estevez and I am in Class 3 of the Oracle Nex E
     <td>HTML</td>
     <td>JavaScript</td>
     <td>Python</td>
-    <td>C</td>
     <td>MySQL</td>
     <td>Git</td>
   </tr>
